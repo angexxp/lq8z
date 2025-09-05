@@ -1,10 +1,9 @@
-104.16.212.77:2048#US11
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipJP.txt@141.147.163.68
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipHK.txt@proxyip.amclubs.kozow.com
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
+https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt@104.16.212.77:2048#US11
 104.21.32.100:2048#US12
 104.18.234.102:2048#US13
 104.19.0.100:2048#US14
 172.67.124.209:2048#US15
 172.67.225.108:2048#US16
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipJP.txt@141.147.163.68
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipHK.txt@proxyip.amclubs.kozow.com
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt
