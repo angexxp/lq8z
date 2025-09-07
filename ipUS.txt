@@ -1,10 +1,13 @@
+198.62.62.156:443#US
+162.159.129.11:2053#US
+162.159.129.67:8443#US
+cris.ns.cloudflare.com
+craig.ns.cloudflare.com
+decker.ns.cloudflare.com
+www.udemy.com
 104.16.212.77:2053#美国
 104.21.32.100:2053#美国
 104.18.234.102:2053#美国
 104.19.0.100:2053#美国
 172.67.124.209:2053#美国
 172.67.225.108:2053#美国
-cris.ns.cloudflare.com
-craig.ns.cloudflare.com
-decker.ns.cloudflare.com
-www.udemy.com
